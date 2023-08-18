@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Routes configuration
  *
@@ -208,7 +209,7 @@ Router::prefix('admin', function ($routes) {
     $bioquimica_descriptor = "/microorganismo/caracterizacion/Bioquimica/";
     $bioquimica_state      = "/microorganismo/caracterizacion/Bioquimica/";
 
-    $insitu = "/conservacion-in-situ/";
+    // $insitu = "/conservacion-in-situ/";
 
     $reporte_forestal   = "/fitogenetico/Reporte-FitoGenetico/";
     $reporte_zogenetico = "/zoogenetico/Reporte-ZooGenetico/";
@@ -778,46 +779,46 @@ Router::prefix('admin', function ($routes) {
     /****************** FIN MODULO MICROGENETICO ***********************/
 
     /************************************* INICIO MODULO INSITU **************************************/
-    $routes->connect($insitu, ['controller' => 'Insitu', 'action' => 'index']);
-    $routes->connect($insitu . 'crear', ['controller' => 'Insitu', 'action' => 'add']);
-    $routes->connect($insitu . 'ver/:id', ['controller' => 'Insitu', 'action' => 'view'], ['pass' => ['id']]);
-    $routes->connect($insitu . 'editar/:id', ['controller' => 'Insitu', 'action' => 'edit'], ['pass' => ['id']]);
-    $routes->connect($insitu . 'eliminar/:id', ['controller' => 'Insitu', 'action' => 'delete'], ['pass' => ['id']]);
-    $routes->connect($insitu . 'exportar', ['controller' => 'Insitu', 'action' => 'exportartabla']);
+    // $routes->connect($insitu, ['controller' => 'Insitu', 'action' => 'index']);
+    // $routes->connect($insitu . 'crear', ['controller' => 'Insitu', 'action' => 'add']);
+    // $routes->connect($insitu . 'ver/:id', ['controller' => 'Insitu', 'action' => 'view'], ['pass' => ['id']]);
+    // $routes->connect($insitu . 'editar/:id', ['controller' => 'Insitu', 'action' => 'edit'], ['pass' => ['id']]);
+    // $routes->connect($insitu . 'eliminar/:id', ['controller' => 'Insitu', 'action' => 'delete'], ['pass' => ['id']]);
+    // $routes->connect($insitu . 'exportar', ['controller' => 'Insitu', 'action' => 'exportartabla']);
 
     /************************************* FIN MODULO INSITU **************************************/
 
         /******************* MODULO PRACTICA AGRICOLAS ***********************/
-        $routes->connect($insitu . ':idx/practicas-agricolas' , ['controller' => 'InsituFarmerActivity', 'action' => 'index'],['pass' => ['idx']]);
-        $routes->connect($insitu . ':idx/practicas-agricolas/crear', ['controller' => 'InsituFarmerActivity', 'action' => 'add'], ['pass' => ['idx']]);
-        $routes->connect($insitu . ':idx/practicas-agricolas/ver/:id', ['controller' => 'InsituFarmerActivity', 'action' => 'view'], ['pass' => ['idx', 'id']]);
-        $routes->connect($insitu . ':idx/practicas-agricolas/editar/:id', ['controller' => 'InsituFarmerActivity', 'action' => 'edit'], ['pass' => ['idx', 'id']]);
-        $routes->connect($insitu . ':idx/practicas-agricolas/eliminar/:id', ['controller' => 'InsituFarmerActivity', 'action' => 'delete'], ['pass' => [ 'idx' ,'id']]);
-        $routes->connect($insitu . ':idx/practicas-agricolas/exportar', ['controller' => 'InsituFarmerActivity', 'action' => 'exportartabla'], ['pass' => ['idx']]);
+        // $routes->connect($insitu . ':idx/practicas-agricolas' , ['controller' => 'InsituFarmerActivity', 'action' => 'index'],['pass' => ['idx']]);
+        // $routes->connect($insitu . ':idx/practicas-agricolas/crear', ['controller' => 'InsituFarmerActivity', 'action' => 'add'], ['pass' => ['idx']]);
+        // $routes->connect($insitu . ':idx/practicas-agricolas/ver/:id', ['controller' => 'InsituFarmerActivity', 'action' => 'view'], ['pass' => ['idx', 'id']]);
+        // $routes->connect($insitu . ':idx/practicas-agricolas/editar/:id', ['controller' => 'InsituFarmerActivity', 'action' => 'edit'], ['pass' => ['idx', 'id']]);
+        // $routes->connect($insitu . ':idx/practicas-agricolas/eliminar/:id', ['controller' => 'InsituFarmerActivity', 'action' => 'delete'], ['pass' => [ 'idx' ,'id']]);
+        // $routes->connect($insitu . ':idx/practicas-agricolas/exportar', ['controller' => 'InsituFarmerActivity', 'action' => 'exportartabla'], ['pass' => ['idx']]);
 
         /******************* MODULO AMENAZAS REPORTADAS ***********************/
-        $routes->connect($insitu . ':idx/amenazas-reportadas' , ['controller' => 'InsituThreat', 'action' => 'index'],['pass' => ['idx']]);
-        $routes->connect($insitu . ':idx/amenazas-reportadas/crear', ['controller' => 'InsituThreat', 'action' => 'add'], ['pass' => ['idx']]);
-        $routes->connect($insitu . ':idx/amenazas-reportadas/ver/:id', ['controller' => 'InsituThreat', 'action' => 'view'], ['pass' => ['idx', 'id']]);
-        $routes->connect($insitu . ':idx/amenazas-reportadas/editar/:id', ['controller' => 'InsituThreat', 'action' => 'edit'], ['pass' => ['idx', 'id']]);
-        $routes->connect($insitu . ':idx/amenazas-reportadas/eliminar/:id', ['controller' => 'InsituThreat', 'action' => 'delete'], ['pass' => [ 'idx' ,'id']]);
-        $routes->connect($insitu . ':idx/amenazas-reportadas/exportar', ['controller' => 'InsituThreat', 'action' => 'exportartabla'], ['pass' => ['idx']]);
+        // $routes->connect($insitu . ':idx/amenazas-reportadas' , ['controller' => 'InsituThreat', 'action' => 'index'],['pass' => ['idx']]);
+        // $routes->connect($insitu . ':idx/amenazas-reportadas/crear', ['controller' => 'InsituThreat', 'action' => 'add'], ['pass' => ['idx']]);
+        // $routes->connect($insitu . ':idx/amenazas-reportadas/ver/:id', ['controller' => 'InsituThreat', 'action' => 'view'], ['pass' => ['idx', 'id']]);
+        // $routes->connect($insitu . ':idx/amenazas-reportadas/editar/:id', ['controller' => 'InsituThreat', 'action' => 'edit'], ['pass' => ['idx', 'id']]);
+        // $routes->connect($insitu . ':idx/amenazas-reportadas/eliminar/:id', ['controller' => 'InsituThreat', 'action' => 'delete'], ['pass' => [ 'idx' ,'id']]);
+        // $routes->connect($insitu . ':idx/amenazas-reportadas/exportar', ['controller' => 'InsituThreat', 'action' => 'exportartabla'], ['pass' => ['idx']]);
 
         /******************* MODULO PLAGAS PATOGENOS ***********************/
-        $routes->connect($insitu . ':idx/plagas-patogenos' , ['controller' => 'InsituPlage', 'action' => 'index'],['pass' => ['idx']]);
-        $routes->connect($insitu . ':idx/plagas-patogenos/crear', ['controller' => 'InsituPlage', 'action' => 'add'], ['pass' => ['idx']]);
-        $routes->connect($insitu . ':idx/plagas-patogenos/ver/:id', ['controller' => 'InsituPlage', 'action' => 'view'], ['pass' => ['idx', 'id']]);
-        $routes->connect($insitu . ':idx/plagas-patogenos/editar/:id', ['controller' => 'InsituPlage', 'action' => 'edit'], ['pass' => ['idx', 'id']]);
-        $routes->connect($insitu . ':idx/plagas-patogenos/eliminar/:id', ['controller' => 'InsituPlage', 'action' => 'delete'], ['pass' => [ 'idx' ,'id']]);
-        $routes->connect($insitu . ':idx/plagas-patogenos/exportar', ['controller' => 'InsituPlage', 'action' => 'exportartabla'], ['pass' => ['idx']]);
+        // $routes->connect($insitu . ':idx/plagas-patogenos' , ['controller' => 'InsituPlage', 'action' => 'index'],['pass' => ['idx']]);
+        // $routes->connect($insitu . ':idx/plagas-patogenos/crear', ['controller' => 'InsituPlage', 'action' => 'add'], ['pass' => ['idx']]);
+        // $routes->connect($insitu . ':idx/plagas-patogenos/ver/:id', ['controller' => 'InsituPlage', 'action' => 'view'], ['pass' => ['idx', 'id']]);
+        // $routes->connect($insitu . ':idx/plagas-patogenos/editar/:id', ['controller' => 'InsituPlage', 'action' => 'edit'], ['pass' => ['idx', 'id']]);
+        // $routes->connect($insitu . ':idx/plagas-patogenos/eliminar/:id', ['controller' => 'InsituPlage', 'action' => 'delete'], ['pass' => [ 'idx' ,'id']]);
+        // $routes->connect($insitu . ':idx/plagas-patogenos/exportar', ['controller' => 'InsituPlage', 'action' => 'exportartabla'], ['pass' => ['idx']]);
 
         /******************* MODULO ACCESIONES ***********************/
-        $routes->connect($insitu . ':idx/accesiones' , ['controller' => 'InsituAccesion', 'action' => 'index'],['pass' => ['idx']]);
-        $routes->connect($insitu . ':idx/accesiones/crear', ['controller' => 'InsituAccesion', 'action' => 'add'], ['pass' => ['idx']]);
-        $routes->connect($insitu . ':idx/accesiones/ver/:id', ['controller' => 'InsituAccesion', 'action' => 'view'], ['pass' => ['idx', 'id']]);
-        $routes->connect($insitu . ':idx/accesiones/editar/:id', ['controller' => 'InsituAccesion', 'action' => 'edit'], ['pass' => ['idx', 'id']]);
-        $routes->connect($insitu . ':idx/accesiones/eliminar/:id', ['controller' => 'InsituAccesion', 'action' => 'delete'], ['pass' => [ 'idx' ,'id']]);
-        $routes->connect($insitu . ':idx/accesiones/exportar', ['controller' => 'InsituAccesion', 'action' => 'exportartabla'], ['pass' => ['idx']]);
+        // $routes->connect($insitu . ':idx/accesiones' , ['controller' => 'InsituAccesion', 'action' => 'index'],['pass' => ['idx']]);
+        // $routes->connect($insitu . ':idx/accesiones/crear', ['controller' => 'InsituAccesion', 'action' => 'add'], ['pass' => ['idx']]);
+        // $routes->connect($insitu . ':idx/accesiones/ver/:id', ['controller' => 'InsituAccesion', 'action' => 'view'], ['pass' => ['idx', 'id']]);
+        // $routes->connect($insitu . ':idx/accesiones/editar/:id', ['controller' => 'InsituAccesion', 'action' => 'edit'], ['pass' => ['idx', 'id']]);
+        // $routes->connect($insitu . ':idx/accesiones/eliminar/:id', ['controller' => 'InsituAccesion', 'action' => 'delete'], ['pass' => [ 'idx' ,'id']]);
+        // $routes->connect($insitu . ':idx/accesiones/exportar', ['controller' => 'InsituAccesion', 'action' => 'exportartabla'], ['pass' => ['idx']]);
 
     //*************************************** INICIO MODULO DE PUBLICACIONES Y CATALOGOS ********************************************//
         //********************************* INICIO MANTENIMIENTO PUBLICACIONES ***************************************//
@@ -877,7 +878,7 @@ Router::prefix('admin', function ($routes) {
 
     //publicacion-catalogo-virtual
     $routes->connect('/publicacion-catalogo-virtual', ['controller' => 'GestionPublicacionCatalogo', 'action' => 'index']);
-
+    include('routes_zabd.php');
 });
 
 Router::prefix('admin/fitogenetico', function ($routes) {
@@ -912,6 +913,20 @@ Router::prefix('admin/zoogenetico', function ($routes) {
 });
 
 Router::prefix('admin/microorganismo', function ($routes) {
+    // $routes->connect('/loginx', ['controller' => 'Acceso', 'action' => 'login']);
+    $inventario = "/gestion-inventario";
+    $caracterizacion = "/caracterizacion";
+    $reportes = "/reportes";
+
+    $routes->connect('/', ['controller' => 'Portada', 'action' => 'index']);
+    /*Here Routes Inventary*/
+    $routes->connect($inventario, ['controller' => 'AdministracionBancos', 'action' => 'index']);
+
+    $routes->connect($caracterizacion, ['controller' => 'Caracterizacion', 'action' => 'index']);
+
+    $routes->connect($reportes, ['controller' => 'reportes', 'action' => 'index']);
+});
+Router::prefix('admin/conservacion-in-situ', function ($routes) {
     // $routes->connect('/loginx', ['controller' => 'Acceso', 'action' => 'login']);
     $inventario = "/gestion-inventario";
     $caracterizacion = "/caracterizacion";

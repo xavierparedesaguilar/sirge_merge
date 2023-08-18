@@ -1,0 +1,34 @@
+<?php
+namespace App\Model\Entity;
+
+use Cake\ORM\Entity;
+
+/**
+ * TbNombresCientifico Entity
+ *
+ * @property int $id
+ * @property string $nombre_cientifico
+ * @property int $tb_familia_id
+ * @property int $tb_tipo_diversidad_id
+ * @property int $status
+ *
+ * @property \App\Model\Entity\TbFamilia $tb_familia
+ * @property \App\Model\Entity\TbTipoDiversidad $tb_tipo_diversidad
+ */
+class TbNombresCientifico extends Entity
+{
+
+    /**
+     * Fields that can be mass assigned using newEntity() or patchEntity().
+     *
+     * Note that when '*' is set to true, this allows all unspecified fields to
+     * be mass assigned. For security purposes, it is advised to set '*' to false
+     * (or remove it), and explicitly make individual fields accessible as needed.
+     *
+     * @var array
+     */
+    protected $_accessible = [
+        '*' => true,
+        'id' => false
+    ];
+}
