@@ -1,0 +1,219 @@
+Id;Nº;Cultivo;Conocimiento empleado;Nombre tradicional del conocimiento;Aplicación del conocimiento;;;Descripción;
+;;;;;Área;Acción;Etapa: 1. Presiembra, 2. Siembra, 3. Germinación, 4. Trasplante, 5. Desarrollo vegetativo, 6. Floración, 7. Fructificación, 8. Maduración,  9. Cosecha, 10. Poscosecha;;id_zabd
+1;;Papa;Rotación de cultivos, control de plagas;Manda;Agricultura;Manejo cultivo;1, 2, 9;Conjunto de parcelas pequeñas y grandes que tienen una misma especie, regidas por una rotación de cultivos, evita la presencia de plagas, por que esta se diversifica por la cantidad de cultivo, se deja en descanso la manda.;Andenes de Cuyocuyo
+5;;Papa;Actividad presiembra;Cancha;Agricultura;Manejo cultivo;1;De dormideros de alpacas, corderos  y llamas extraen el estiércol de la parte inferir depositado por años y cubren con este el tubérculo para esquivar al gorgojo.;Andenes de Cuyocuyo
+6;;Papa;Actividad presiembra;Diversificación de cultivos;Agricultura;Manejo cultivo;1;Siembra en diferentes lugares y pisos altitudinales, de esta manera se evita daños causados por factores bióticos (plagas) y abióticos (heladas).;Andenes de Cuyocuyo
+7;;Oca;Actividad presiembra;Diversificación de cultivos;Agricultura;Manejo cultivo;1;Siembra en diferentes lugares y pisos altitudinales, de esta manera se evita daños causados por factores bióticos (plagas) y abióticos (heladas).;Andenes de Cuyocuyo
+8;;Izaño;Actividad presiembra;Diversificación de cultivos;Agricultura;Manejo cultivo;1;Siembra en diferentes lugares y pisos altitudinales, de esta manera se evita daños causados por factores bióticos (plagas) y abióticos (heladas).;Andenes de Cuyocuyo
+9;;Olluco;Actividad presiembra;Diversificación de cultivos;Agricultura;Manejo cultivo;1;Siembra en diferentes lugares y pisos altitudinales, de esta manera se evita daños causados por factores bióticos (plagas) y abióticos (heladas).;Andenes de Cuyocuyo
+10;;Quinua;Actividad presiembra;Diversificación de cultivos;Agricultura;Manejo cultivo;1;Siembra en diferentes lugares y pisos altitudinales, de esta manera se evita daños causados por factores bióticos (plagas) y abióticos (heladas).;Andenes de Cuyocuyo
+11;;Maíz;Actividad presiembra;Diversificación de cultivos;Agricultura;Manejo cultivo;1;Siembra en diferentes lugares y pisos altitudinales, de esta manera se evita daños causados por factores bióticos (plagas) y abióticos (heladas).;Andenes de Cuyocuyo
+12;;Papa;Siembra;Phawa;Agricultura;Manejo cultivo;2;Nombre aymara con la que se denomina a la siembra.;Andenes de Cuyocuyo
+13;;Papa;Siembra adelantada;Milli;Agricultura;Manejo cultivo;2;Es la siembra menor que se realiza en agosto, cerca de las casa donde no cae helada y aprovecha la humedad y se cosecha en diciembre, y chacras con riego.;Andenes de Cuyocuyo
+14;;Papa;Prevención de enfermedades;katahui y ceniza;Agricultura;Manejo cultivo;5;Cal y ceniza que se acumula en las cocinas son espolvoreadas sobre el follaje de las plantas.;Andenes de Cuyocuyo
+15;;Papa;Insecticida foliar;Hierbas biocidas;Agricultura;Manejo cultivo;;Uso de mesclas de hierbas aromáticas fuertes como muña, ajenjo, palma real, tarwi, etc. Las cuales son fermentadas o secadas, para después usarlas en el control de plagas insectiles.;Andenes de Cuyocuyo
+16;;Papa;Deshierbo;Koreo;Agricultura;Manejo cultivo;;Deshierbo manual, las hierbas luego son suministradas a los animales.;Andenes de Cuyocuyo
+17;;Papa;Cosecha;Raukana;Agricultura;Manejo cultivo;9;Cosecha de papa con “raukana” (picos pequeños).;Andenes de Cuyocuyo
+18;;Quinua;Cosecha para consumo;Jik'e;Agricultura;Manejo cultivo;9;Arranque de las primeras quinuas que alcanzaron su madures fisiológica.;Andenes de Cuyocuyo
+19;;Quinua;Desgrane de semilla;Jauk'a;Agricultura;Manejo cultivo;9;Golpeo de la quinua o cañihua con las “jaucañas” (palos encorvados), sobre mantas.;Andenes de Cuyocuyo
+20;;Quinua;Limpieza;kuyu;Agricultura;Manejo cultivo;9;"Venteo de las semillas, el grano es levantado al viento para separar el ""jipi"" o desecho de la semilla.";Andenes de Cuyocuyo
+21;;Papa;Maduración;Warsuña;Agricultura;Manejo cultivo;9;Son pequeños montones de tubérculos que son tapados con mantas, pajas o la misma brosa seca del cultivo con el fin de acelerar su maduración.;Andenes de Cuyocuyo
+22;;Oca;Maduración;Warsuña;Agricultura;Manejo cultivo;9;Son pequeños montones de tubérculos que son tapados con mantas, pajas o la misma brosa seca del cultivo con el fin de acelerar su maduración.;Andenes de Cuyocuyo
+23;;Izaño;Maduración;Warsuña;Agricultura;Manejo cultivo;9;Son pequeños montones de tubérculos que son tapados con mantas, pajas o la misma brosa seca del cultivo con el fin de acelerar su maduración.;Andenes de Cuyocuyo
+24;;Papa;Transformación;Moraya;Agricultura;Manejo poscosecha;10;Los tubérculos con abúndate gorgojo son puestos en un saco y tirados a un poso, luego de un mes son retirados y consumidos.;Andenes de Cuyocuyo
+25;;Oca;Almacenamiento;Imaña;Agricultura;Manejo poscosecha;10;Ensacado del tubérculo en sacos de tela de alpaca y guardado en un cuarto oscuro.;Andenes de Cuyocuyo
+26;;Habas;Almacenamiento;Imaña;Agricultura;Manejo poscosecha;10;Ensacado del grano en sacos de tela de alpaca y guardado en un cuarto oscuro.;Andenes de Cuyocuyo
+27;;Papa;Almacenamiento de semilla;Almacenamiento de semilla;Agricultura;Manejo poscosecha;10;Tubérculos poco deshidratados, de brotes vigorosos y poco verdeados para evitar al gorgojo.;Andenes de Cuyocuyo
+28;;Papa;Prevención de plagas en almacén;Phina;Agricultura;Manejo poscosecha;10;Montones de tubérculos intercalados con Muña (planta biocida) hacen pilas y colocan la semilla.;Andenes de Cuyocuyo
+29;;Oca;Prevención de plagas en almacén;Phina;Agricultura;Manejo poscosecha;10;Montones de tubérculos intercalados con Muña (planta biocida) hacen pilas y colocan la semilla.;Andenes de Cuyocuyo
+30;;Izaño;Prevención de plagas en almacén;Phina;Agricultura;Manejo poscosecha;10;Montones de tubérculos intercalados con Muña (planta biocida) hacen pilas y colocan la semilla.;Andenes de Cuyocuyo
+31;;Maíz;Prevención de plagas en almacén;Phina;Agricultura;Manejo poscosecha;10;Amarrado de maíz con Muña (planta biocida) hacen pilas y colocan la semilla.;Andenes de Cuyocuyo
+32;;Papa;Prevención de plagas en almacén;Almacenamiento;Agricultura;Manejo poscosecha;10;Almacenamiento en silos de Totora (Juncos del lago).;Andenes de Cuyocuyo
+33;;Oca;Prevención de plagas en almacén;Almacenamiento;Agricultura;Manejo poscosecha;10;Almacenamiento en silos de Totora (Juncos del lago).;Andenes de Cuyocuyo
+34;;Izaño;Prevención de plagas en almacén;Almacenamiento;Agricultura;Manejo poscosecha;10;Almacenamiento en silos de Totora (Juncos del lago).;Andenes de Cuyocuyo
+35;;Olluco;Prevención de plagas en almacén;Almacenamiento;Agricultura;Manejo poscosecha;10;Almacenamiento en silos de Totora (Juncos del lago).;Andenes de Cuyocuyo
+36;;Quinua;Prevención de plagas en almacén;Almacenamiento;Agricultura;Manejo poscosecha;10;Almacenamiento en silos de Totora (Juncos del lago).;Andenes de Cuyocuyo
+37;;Papa;Actividad presiembra;Manda;Agricultura;;1;Conjunto de parcelas que tienen una misma especie, regidas por una rotación de cultivos, evita la presencia de plagas, por ésta se diversifica por la cantidad del cultivo.;Andenes de Cuyocuyo
+38;;Maíz;Actividad presiembra;Manda;Agricultura;;1;Conjunto de parcelas que tienen una misma especie, regidas por una rotación de cultivos, evita la presencia de plagas, por ésta se diversifica por la cantidad del cultivo.;Andenes de Cuyocuyo
+39;;Habas;Actividad presiembra;Manda;Agricultura;;1;Conjunto de parcelas que tienen una misma especie, regidas por una rotación de cultivos, evita la presencia de plagas, por ésta se diversifica por la cantidad del cultivo.;Andenes de Cuyocuyo
+40;;Papa;Siembra;k'arpa;Agricultura;;2;Nombre en quechua con el que denomina a la siembra adelantada para cosechar papa en noviembre, para todos los santos (Variedades yema e ilmilla).;Andenes de Cuyocuyo
+41;;Papa;Prevención de enfermedades;katawi cal;Agricultura;;5;Cal y ceniza que se acumula en las cocinas son espolvoreadas sobre el follaje de las plantas.;Andenes de Cuyocuyo
+42;;Papa;Presiembra;Muju;Agricultura;;1;Demonización en quechua a la semilla de papa.;Andenes de Cuyocuyo
+43;;Maíz;Transformación;Chochoca;Agricultura;Manejo poscosecha;10;Se llerve el maíz y se deseca, se desgrana y se guarda en baldes  para ser consumidos durante 3 a 4 años.;Andenes de Cuyocuyo
+44;;;Andeneria Ancestral;Andeneria Ancestral;Agricultura;Manejo de Suelo;2, 3, 4, 5, 6, 7, 8, 9;Técnica de cultivo empleada para aprovechar las zonas de ladera, mejorando la superficie cultivable y evitando la perdida de suelo por erosión.;Andenes de Cuyocuyo
+1;;Papa;Rotación de cultivos;Rotación de cultivos;Agricultura;Manejo de cultivo;;Rotación de cultivos.;Parque de la Papa
+2;;Papa;Almacenaje;Alamacenaje;Agricultura;Manejo de cultivo;;Limpieza por medio de ahumado con hierbas el espacio del almacenaje.;Parque de la Papa
+3;;Papa;Selección de semillas de papa;Selección de semillas de papa;Agricultura;Manejo de cultivo;;Mujeres y niños de la comunidad realizan esta labor.;Parque de la Papa
+4;;Papa;Cultivar diversas variedades de papa en un lugar;Cultivar diversas variedades de papa en un lugar;Agricultura;Manejo de cultivo;;Adaptación a plagas y cambio climático.;Parque de la Papa
+5;;Papa;Labranza y siembra;Chunki;Agricultura;Manejo de suelo;;Método de labranza y siembra.;Parque de la Papa
+6;;Papa;Labranza y siembra;Taya;Agricultura;Manejo de suelo;;Método de labranza y siembra.;Parque de la Papa
+7;;Papa;Descanso del suelo;Barbechos;Agricultura;Manejo de suelo;;Se deja descansar la tierra por un periodo.;Parque de la Papa
+8;;Papa;zanjas de infiltración;Las cunkas;Agricultura;Manejo de suelo;;zanjas de infiltración en medio de las parcelas para desviar el agua.;Parque de la Papa
+9;;Papa;Abonamiento;Abonamiento;Agricultura;Manejo de suelo;;Abonamiento de la siguiente forma (1) Estiércol de animales agolpes (2) Parcela en reposo con animales pastando.;Parque de la Papa
+10;;Papa;Aporque;Aporque;Agricultura;Manejo de suelo;;Aporte de tierra a la base del cultivo (Evitar Plagas).;Parque de la Papa
+11;;Papa;Indicadores biológicos en plantas;Añapunku;Agricultura;Manejo de Clima;;;Parque de la Papa
+12;;Papa;Indicadores biológicos en plantas;Muña;Agricultura;Manejo de Clima;;;Parque de la Papa
+13;;Papa;Indicadores biológicos en plantas;R'oqa;Agricultura;Manejo de Clima;;;Parque de la Papa
+14;;Papa;Indicadores biológicos en plantas;Suluku;Agricultura;Manejo de Clima;;;Parque de la Papa
+15;;Papa;Indicadores biológicos en plantas;Kantu;Agricultura;Manejo de Clima;;;Parque de la Papa
+16;;Papa;Indicadores biológicos en plantas;Jawancollay;Agricultura;Manejo de Clima;;;Parque de la Papa
+17;;Papa;Indicadores biológicos en plantas;Cheqche;Agricultura;Manejo de Clima;;;Parque de la Papa
+18;;Papa;Indicadores biológicos en plantas;Pholores;Agricultura;Manejo de Clima;;;Parque de la Papa
+19;;Papa;Indicadores biológicos en plantas;Kisa;Agricultura;Manejo de Clima;;;Parque de la Papa
+20;;Papa;Indicadores biológicos en plantas;Patallaqta;Agricultura;Manejo de Clima;;;Parque de la Papa
+21;;Papa;Indicadores biológicos en animales;Wallata;Ganaderia;Manejo de Clima;;;Parque de la Papa
+22;;Papa;Indicadores biológicos en animales;Leq'echo;Ganaderia;Manejo de Clima;;;Parque de la Papa
+23;;Papa;Indicadores biológicos en animales;Q'erecho;Ganaderia;Manejo de Clima;;;Parque de la Papa
+24;;Papa;Indicadores biológicos en animales;Jakacho;Ganaderia;Manejo de Clima;;;Parque de la Papa
+25;;Papa;Herraminetas usadas;Khipu;Agricultura;Manejo de cultivo;;;Parque de la Papa
+26;;Papa;Herraminetas usadas;Chaquitaqlla;Agricultura;Manejo de cultivo;;;Parque de la Papa
+27;;Papa;Herraminetas usadas;Kasuna;Agricultura;Manejo de cultivo;;;Parque de la Papa
+28;;Papa;Herraminetas usadas;Isanka (canasta) para cosecha de papa;Agricultura;Manejo de cultivo;;;Parque de la Papa
+29;;Papa;Herraminetas usadas;Wiri;Agricultura;Manejo de cultivo;;;Parque de la Papa
+30;;Papa;Espiritualidad;Quinto;Cultura;;;Agradecimiento a la Pachamama antes de sembrar y cosechar papa.;Parque de la Papa
+31;;Papa;Espiritualidad;Amarre del espíritu de la papa;Cultura;;;Amarre del espíritu de la papa con soga hecho con lana de alpaca-después de cosechar las variedades se recolecta y se “amarra” lo recolectado para tener mayor producción el próximo año.;Parque de la Papa
+32;;Papa;Espiritualidad;Barrera a la papa cosechada;Cultura;;;Barrera alrededor de la papa cosechada a base de rastrojo.;Parque de la Papa
+33;;Papa;Espiritualidad;Ofrenda al Agua;Cultura;;;Durante el periodo de veranillo ofrendar el agua de otras lagunas a las lagunas en déficit hídrico.;Parque de la Papa
+34;;Papa;Fiestas;Santurumuray;Cultura;;;Cuando la papa esta con flor, se relaciona con el linderaje como identificaría a las variedades de papa.;Parque de la Papa
+35;;Papa;Fiestas;Unuraymi;Cultura;;;Agradecimiento a través de ofrendas por el agua.;Parque de la Papa
+36;;Papa;Intercambios;Trueque;Economía;;;;Parque de la Papa
+37;;Papa;Alimento típico de la zona;Watia;Gastronomía;;;Platos como Watia (horno donde se ponen las papas).;Parque de la Papa
+38;;Papa;Alimento típico de la zona;Ruki;Gastronomía;;;Deshidratación de la papa amarga exclusivas para chuño y moraya.;Parque de la Papa
+39;;Papa;Alimento típico de la zona;Harina de papas;Gastronomía;;;Harina de papas.;Parque de la Papa
+40;;Papa;Alimento típico de la zona;Papas dulces;Gastronomía;;;Papas dulces utilizada en sopas y sancochadas.;Parque de la Papa
+41;;Papa;Alimento típico de la zona;Papa boles;Gastronomía;;; Papas que no presentan demasiados ojos, fáciles de pelar.;Parque de la Papa
+42;;Papa;Emplasto de papa;Emplasto de papa;Medicina;;;Emplastos de papas dulces y amargas para inflamaciones de muelas entre otras.;Parque de la Papa
+43;;Mashua;Deshidratación de Mashua;K’aya;Gastronomía;;;Deshidratación de Mashua.;Parque de la Papa
+44;;Otros cultivos;Deshidratación de las lisas;Linli;Gastronomía;;;Deshidratación de las lisas.;Parque de la Papa
+45;;Otros cultivos;Herraminetas usadas;Calendario Agricola;Agricultura;Manejo de cultivo;;Uso de calendario agricola.;Parque de la Papa
+46;;Otros cultivos;Herraminetas usadas;T’inina;Agricultura;Manejo de cultivo;;Herramienta para deshojar maíz.;Parque de la Papa
+47;;Otros cultivos;Aporque;Aporque;Agricultura;Manejo de suelo;;Aporte de tierra a la base del cultivo (evitar plagas en encame).;Parque de la Papa
+48;;Otros cultivos;Andenes;Andenes;Agricultura;Manejo de suelo;;Técnica de cultivo empleada para aprovechar las zonas de ladera, mejorando la superficie cultivable y evitando la perdida de suelo por erosión.;Parque de la Papa
+49;;Otros cultivos;Siembra y cosecha de agua;Aruna;;Manejo de agua;; Siembra y cosecha de agua para irrigación y consumo.;Parque de la Papa
+1;;Papa;Bioestimulante natural de tejidos;Ch’aqchu;Agricultura;Manejo de cultivo;5, 6, 7;Práctica que se realiza inmediatamente después del daño producido por la granizada, este propósito utiliza la Wamanlipa, Markhu, Sunchu, Pampa anís. De esta manera, el Ch’aqchu es la aplicación del referido preparado con el propósito revertir el daño ocasionado.;Ccollasuyo
+2;;Papa;Siembra de mezcla variedades de papas;Chaqro / Charqo;Agricultura;Manejo de cultivo;1, 2;La mayoría conservacionistas siembran en Charqo, técnica que consiste en realizar la siembra en mezcla de muchas variedades de papas en un solo terreno de cultivo, por lo general variedades que pertenecen a un mismo grupo familiar T’aqa, en virtud a que las diferentes variedades viven en simbiosis y a la vez en competencia. En esta forma de asociación se cosecha una diversidad y variabilidad apreciable de papas nativas.;Ccollasuyo
+3;;Papa;Ritual de curación;Q’apachi;Cultural;;1, 2, 3, 4, 5, 6, 7, 8, 9;Rituales de curación de las plantas cuando sufren daños o están amenazadas por granizadas, nevados, truenos, daños de animales y robos. Para estos rituales, se utilizan insumos preparados a base de (wamanlipa, markhu, sunchu, pampa anís, harina de yuca, cáscara de frutas, etc.).;Ccollasuyo
+4;;Papa;Preparación de suelo;Q’echu Wachu;Agricultura;;1;Comunidades de zonas media y baja de Ocongate, la longitud de los camellones y surcos varía de 10 a 15m., se orientan en un solo sentido, diferenciada del Wachu Yapuy por la presencia de una franja pequeña de cerca de 0.50 m., sin roturación que sirve de pasadizo, también cumple la función de retener la humedad y evitar el arrastre de tierra. Se construye en función a la pendiente, si es muy pronunciada, los distanciamientos son cortos, si es llano, el distanciamiento es mayor.;Ccollasuyo
+5;;Papa;Selección de semilla;Selección de semilla;Agricultura;;10;La semilla, se selecciona teniendo en cuenta, la forma, número de ojos y tamaño. Las categorías que se consideran son semillas de primera, segunda y tercera o Hatun muhu, Murmu muhu y Khullu muhu, estas categorías de semillas en algunos casos se mantienen separados y en otros se mantienen juntas.;Ccollasuyo
+6;;Papa;Sistema de barbecho;Thaya / Llohay/ Rompe;Agricultura;;1;Sistema de barbecho, en suelos de la parte baja y de uso intensivo, una vez concluido el barbecho o roturación se deja por un tiempo de 3 a 4 meses, en seguida se prosigue con el desterronado y quemado de malezas y raíces. Este sistema de preparación se realiza aprovechando la humedad de las últimas lluvias del mes de marzo y en sitios donde se utiliza el riego de machaco.;Ccollasuyo
+7;;Papa;Transformación de la papa;Transformación de la papa;Agricultura;;10;Tubérculos destinados para la preparación de Moraya y Chuño, clasificados en categorías según tamaño (primera, segunda, tercera, cuarta), esta clasificación se realiza para facilitar el efecto de congelamiento por las heladas. Principalmente para chuño variedades: K´usi, Cuchillo P'aki, Bole, Wakaqallo.;Ccollasuyo
+8;;Papa;Tratamiento de guano de corral;Tratamiento de guano de corral;Agricultura;;1;Se inocula microorganismos en una pila de abono orgánico o guano de corral varias veces antes de sembrar y siempre regando con abundante agua, el abono mejorado mediante la acción de los micro organismos eficaces EM ayuda a la descomposición de la materia orgánica por acción de grupo de bacterias fotosintética (ácido láctico y levaduras), el proceso que dura más o menos de 2 a 3 meses, el guano debe tener una consistencia suave suelto y de color oscuro sin malos olores.;Ccollasuyo
+9;;Papa;;Miska;Agricultura;;;Siembra de variedades de papa nativa en el mes de mayo y la cosecha en los meses de noviembre y diciembre.;Ccollasuyo
+10;;Papa;;Maguay;Agricultura;;;Siembra de variedades de papa nativa en el mes de junio, la cosecha en el mes de diciembre y enero.;Ccollasuyo
+11;;Papa;;Loma tarpuy o siembra grande,;Agricultura;;;Siembra de variedades nativas de papa agosto y setiembre y la cosecha en los meses de mayo y junio.;Ccollasuyo
+12;;;Rotación de cultivos;Muyuy;Agricultura;;1;Denominación a los terrenos de rotación.;Ccollasuyo
+13;;;Ofrenda a la Pachamama y Apus;Tinkuy;Cultura;;1;Ritual donde se pide permiso, a la Pachamama y a los Apus del lugar, ofrendándoseles coca Q’uintu y aguardiente o vino junto con invocaciones y oraciones, esta ceremonia generalmente este cargo de la familia propietaria de la chacra.;Ccollasuyo
+14;;;;Wachu;Agricultura;;1;Es la labranza del primer surco a manera de ejemplo, determinando el ancho y profundidad del wachu o surco.;Ccollasuyo
+15;;;;Quncas;Agricultura;;1;Surcos tranversales.;Ccollasuyo
+16;;;;T’aya;Agricultura;;1;Labranza en terrenos planos,siempre de la mano de la chaquitaclla y el grupo de ayni.;Ccollasuyo
+17;;;;Chuki;Agricultura;;2;Modalidad de movimiento de suelo y siembra de manera paralela, se practica por lo general en los laymes o tierras de rotación siempre mediante el ayni. También conocido como labranza cero.;Ccollasuyo
+18;;;;Yunta de Bueyes;Agricultura;;1;"Empleado principalmente en la zona q’eswa, en terrenos de poca pendiente y de cierta profundidad; conformado por dos toros adiestrados, para el lado izquierdo y para el lado derecho unidos por un yugo.";Ccollasuyo
+19;;;;T'aque;Agricultura;;10;almacén de la selección de semillas.;Ccollasuyo
+20;;;;Challascca de ganado;Ganadería;;;Rito de origen inca, consistía en rendir culto a los cerros, manantiales, la tierra y la alpaca con el propósito de lograr protección, bienestar y mayor producción de alpacas.;Ccollasuyo
+21;;;;Hastanapata;Ganadería;;;Práctica destinada a evitar el sobrepastoreo por la sobrecarga animal. En la época de lluvias los pastizales crecen más rápido por la humedad existente y se pastorea en la parte alta. En épocas de estiaje, los animales se pastorean en la parte baja.;Ccollasuyo
+22;;;Rotación de cultivos;Suertes;Ganadería;;;Terrenos de rotación sectorial de cultivos, este tipo de rotación contribuyen a organizar mejor la agricultura pastoreo y la organización social de las familias de la comunidad.;Ccollasuyo
+1;;;Trabajo comunal;Ayni;Agricultura;;1, 2, 4, 9;Laboreo de las chacras en una modalidad de organización tradicional.;Marcapata Ccollana
+2;;;;Tinkuy;Cultural;;1;Ritual donde se pide permiso, a la Pachamama y a los Apus del lugar, ofrendándoseles coca Q’uintu y aguardiente o vino junto con invocaciones y oraciones, esta ceremonia generalmente este cargo de la familia propietaria de la chacra.;Marcapata Ccollana
+3;;;Herramienta de labranza;Chaquitaclla;Agricultura;;1;Herramienta para la labranza del suelo, haciendo uso de la fuerza del pie, el diseño varía en función del tipo de labranza, cuya variación principal se dan en la forma y longitud del timón o taclla.;Marcapata Ccollana
+4;;;Labranza de suelo;Labranza wachu;Agricultura;;1;Es la labranza del primer surco a manera de ejemplo, determinando el ancho y profundidad del wachu o surco. La masa de la chaquitaclla esta formada por dos varones y una mujer. Los varones introducen la reja de la chaquitaclla y realizan un movimiento de palanca, en ese instante la mujer levanta la champa (prisma) del suelo, acción conocida como “rapay” y la coloca lateralmente sin separarla del suelo hacia el lado derecho e izquierdo simultáneamente, de manera que la cobertura vegetal del prisma se junta con la otra porción de suelo y así sucesivamente se continúa formando un característico surco.;Marcapata Ccollana
+5;;;Surcos;Quncas;Agricultura;;1;Surcos tranversales.;Marcapata Ccollana
+6;;;Labranza de suelo;Labranza T’aya;Agricultura;;1;Labranza en terrenos planos,siempre de la mano de la chaquitaclla, el grupo de ayni, donde la masa de chaquitaclla está conformado por un varón y una mujer, el primero introduce la reja y la mujer realiza el rapaq o volteo del prisma de suelo de manera simultánea, condición en que quedan durante varios meses, facilitando la meteorización del suelo.;Marcapata Ccollana
+7;;;Labranza de suelo; Sistema Chuki;Agricultura;;1;"Modalidad de movimiento de suelo y siembra de manera paralela, se practica por lo general en los laymes o tierras de rotación siempre mediante el ayni. También conocido como labranza cero; la masa de chaquitaclla la conforma uno o dos varones y una mujer quien deposita las semillas; el proceso consiste en introducir la reja de la herramienta y realizar un movimiento de palanca, para levantar el prisma del suelo, en ese momento la mujer introduce en el hoyo la semilla del tubérculo, junto al guano de corral e inmediatamente cubre el hoyo con su propio prisma.";Marcapata Ccollana
+8;;;Labranza de suelo;Yunta de Bueyes;Agricultura;;1;"Empleado principalmente en la zona q’eswa, en terrenos de poca pendiente y de cierta profundidad; conformado por dos toros adiestrados, para el lado izquierdo y para el lado derecho unidos por un yugo.";Marcapata Ccollana
+9;;;;T'aque;Agricultura;;10;Almacén de la selección de semillas.;Marcapata Ccollana
+10;;;Rotación de cultivos;Muyuy;Agricultura;;1;Los muyuy son campos comunales de cierta extensión, algunas veces de 30 a 40 hectáreas, los cuales se siembran por períodos de tres a cuatro años con descansos prolongados de hasta diez años. La siembra y las labores culturales se efectúan en forma comunitaria y las decisiones sobre que especie se cultivarán y sobre los descansos también son de decisión comunal.;Marcapata Ccollana
+11;;;Rotación de cultivos;Suertes;Agricultura;;1;Rotación sectorial de cultivos en las que se crían variedades nativas de papas, esta sectorización la fueron hechas por los antiguos campesinos y obedece al dominio de muchos factores y criterios como de la fisiografía. Las suertes tienen un periodo de descanso de 5 años para recuperación de su fertilidad por lo que, las familias retornan a cultivar en dichas áreas cada cinco años, una vez que los suelos han recuperado su fertilidad.;Marcapata Ccollana
+12;;;Etapa de siembra;Miska;Agricultura;;2;Siembra de variedades de papa nativa en el mes de mayo y la cosecha en los meses de noviembre y diciembre.;Marcapata Ccollana
+13;;;Etapa de siembra;Maguay;Agricultura;;2;siembra de variedades de papa nativa en el mes de junio, la cosecha en el mes de diciembre y enero.;Marcapata Ccollana
+14;;;Etapa de siembra;Loma tarpuy o siembra grande;Agricultura;;2;Siembra de variedades nativas de papa agosto y setiembre y la cosecha en los meses de mayo y junio.;Marcapata Ccollana
+15;;;Plantas indicadoras;Anapancu;Agricultura;Manejo de Clima;;La buena floración de estas plantas en los meses de julio y agosto indica que es buen año agrícola.;Marcapata Ccollana
+16;;;Plantas indicadoras;Amapola (silvestre);Agricultura;Manejo de Clima;;La buena floración de esta planta en los meses junio y julio indica que es buen año agrícola.;Marcapata Ccollana
+17;;;Plantas indicadoras;Cactáceas;Agricultura;Manejo de Clima;;La buena floración de estas plantas en los meses junio - agosto indica que es buen año agrícola.;Marcapata Ccollana
+18;;;Plantas indicadoras;Capulí;Agricultura;Manejo de Clima;;La buena floración de estas plantas en el mes de agosto indica que habrá abundante cosecha y buen año agrícola.;Marcapata Ccollana
+19;;;Plantas indicadoras;Chihuanhuayta;Agricultura;Manejo de Clima;;El tallo robusto y la buena floración de esta planta indica que será un buen año agrícola, si tiene buen desarrollo.;Marcapata Ccollana
+20;;;Plantas indicadoras;Chuntahuayta;Agricultura;Manejo de Clima;;La floración abundante en esta planta en los meses de agosto y setiembre indica que es buen año agrícola.;Marcapata Ccollana
+21;;;Plantas indicadoras;Itapallo;Agricultura;Manejo de Clima;;Si florece sin helarse en los meses de julio y agosto indica que es buen año agrícola.;Marcapata Ccollana
+22;;;Plantas indicadoras;Kallampa (hongo);Agricultura;Manejo de Clima;;"Si emerge el tallo en el mes de diciembre indica que es buen año si produce en enero y febrero; mal año si se anticipa y lo hace en octubre.";Marcapata Ccollana
+23;;;Plantas indicadoras;Liquen;Agricultura;Manejo de Clima;;Si la planta toma una coloración color negra en el mes de agosto indica que es buen año, si la coloración es gris esta sería un mal año.;Marcapata Ccollana
+24;;;Plantas indicadoras;Llutuyuyu;Agricultura;Manejo de Clima;;El crecimiento abundante de estas plantas sobre las rocas en el mes de agosto indican que es un buen año.;Marcapata Ccollana
+25;;;Plantas indicadoras;Llachoc;Agricultura;Manejo de Clima;;"La abundancia de floración de estas plantas en el mes de agosto indican que es buen año; si se hiela en el mes de setiembre y noviembre anticipa heladas.";Marcapata Ccollana
+26;;;Plantas indicadoras;Mayhua;Agricultura;Manejo de Clima;;La abundancia de floración de esta planta en el mes de setiembre anuncia lluvias atrasadas.;Marcapata Ccollana
+27;;;Plantas indicadoras;Molle;Agricultura;Manejo de Clima;;La fructificación abundante de esta planta indica presencia de copiosas lluvias.;Marcapata Ccollana
+28;;;Plantas indicadoras;Matecllu;Agricultura;Manejo de Clima;;La proliferación de estas plantas en las acequias en el mes de agosto-octubre indica mal año agrícola.;Marcapata Ccollana
+1;;;;Trueque;Social;;2, 4, 9, 10;Intercambio de bienes materiales o servicios por otros objetos o servicios y se diferencia de la compraventa habitual en que no intermedia el dinero en la transacción. El contrato por el cual dos personas acceden ala trueque de denomina “permuta”, para existe le trueque debe existir exceso de bienes que no necesitan consumirse.;Pariahuanca
+2;;;;Ayni;Social;;2, 4, 9, 10;Es la base de las relaciones comunitarias que incentiva el “devolver lo que se ha recibido” y “recibir como devolución lo que se ha dado”.;Pariahuanca
+3;;;;Minka;Social;;;Consiste en una práctica en la que la comunidad se junta para trabajar en un objetivo en común como la construcción de una casa para una pareja joven que forma una nueva familia, levantar la cosecha de un grupo familiar o una obra de uso colectivo, con una devolución inmediata que puede ser, por ejemplo, una abundante comida o el compromiso de reciprocidad a futuro.;Pariahuanca
+4;;;;Cuasimodo;Social;;;Consiste en la Faena general de limpieza de caminos, carreteras, puentes, cementerios, etc, donde participan la población en general distribuyense tareas entre hombres y mujeres.;Pariahuanca
+5;;;;Fiesta de la siembra;Agricultura;;9, 10;Consiste en escoger las mejores semillas para un nuevo ciclo en los cultivos se conoce entre indígenas como el Tarpuk Raymi o la Fiesta de la Siembra y se lo celebra en septiembre, cuando los agricultores, luego de cosechar en junio, guardan sus reservas.;Pariahuanca
+6;;;Ofrenda al Pachamama;Pagapus;Cultura;;;Es la ofrenda que se le hace a la Pachamama en un acto de renovación que consiste en devolver a la tierra lo que nos da, este ritual se realiza - por lo general - cuando es tiempo de cosecha para bendecir la siembra, se dice que es necesario ofrecerle los mejores alimentos para darle mayor fuerza y energía.;Pariahuanca
+7;;;Procesamiento de lana;Hilado;Cultura;;;"Consiste en el tratamiento de la lana de oveja o fibra de alpaca para los tejidos de frazadas, pullos, mantas de viaje, prendas de vestir medias, chompas, chalinas, etc.; utilizando como principal materia prima disponible; lana de alpaca y oveja, elaboran también monturas y frenos para el caballo, hecho con el cuero del ganado vacuno y ovino.";Pariahuanca
+8;;Papa;Almacenamiento de semilla;Almacenamiento de papa;Agricultura;;10;Los pobladores aún mantienen técnicas ancestrales, pues preparan en una esquina del ambiente de su vivienda destinada al almacenamiento de papa, una especie de nido poniendo en la base del suelo una capa de muña u eucalipto, luego colocan una capa de paja llegando a cobertura toda la superficie.;Pariahuanca
+9;;;;Medicina para enfermedades respiratorias;Medicina;;;"Los pobladores preparan en un frasco de 500ml, 0.5 kg de miel, 2 onzas de cañazo, 5 g de propóleo; posteriormente esta infusión es dosificada en una cucharada, cada noche durante una semana, garantizando la cura de la enfermedad (tos, bronquios, etc.).";Pariahuanca
+10;;;Plato tradicional;Shacta;Gastronomia;;;Se denomina así al plato que se sirve durante la traída, hasta hace muchos años atrás compuesta por carne charqui, queso, alverja tostada, choclos.;Pariahuanca
+11;;;;Shakatan;Cultura;;;Música y danza ancestral “El shakatan” tributo a los APU Nevados y Pakarinas, puquiales, el agradecimiento por los frutos recibidos. Se baila al compás de la tinya, wacra y cánticos de cantoras nativas.;Pariahuanca
+1;1;Papa;Siembra;Siembra en laymes;Agricultura;Manejo de cultivo;2;Laymes son terrenos descansados de uso colectivo.;Paymakis
+2;2;Papa;Procesamiento;Chuño;Agricultura;Manejo de cultivo;10;"Elaboración de chuño a 4,800 - 5,000 m.s.n.m., en diez pasos:
+1. Cosecha de papa en los laymes
+2. Selección de papas amargas (aprox 80% de la cosecha total).
+3. Transporte de la papa hacia zonas en donde se presenten heladas fuertes 
+4. Ubicación de la cabaña temporal y tendido de la papa en la explanada
+5. La papa soportará una, dos, hasta tes noches de heladas.
+6. Luego de transcurridos los días de helada, se agrupa la papa en pequeños montones de 2 a 5 kg.
+7. Bajo los rayos del sol, los montones de papa deben ser apisonados a fin de extraer el agua de los tubérculos.
+8. Etapa llamada ""prechuño"" : los tubérculos se depositan en corrientes de agua por 1 o 2 noches.
+9. Retirar de la corriente de agua y dejar secar bajo sol.
+10. Transportar el chuño a las casas para almacenar.";Paymakis
+3;3;Diversos;Abonamiento;Abono orgánico;Agricultura;Manejo de cultivo;2;Se realiza con estiércol de oveja.;Paymakis
+4;4;Diversos;Traslado de productos agrícolas/domésticos;Alforqa;Agricultura;Manejo de cultivo;10;Bolso utilizado para el traslado de productos agrícolas o domésticos durante la siembra y en la cosecha. Transporte de semillas.;Paymakis
+5;5;Tubérculos andinos;Cosecha;Allachu;Agricultura;Manejo de cultivo;9;Principal herramienta para extraer (cosechar) tubérculos.;Paymakis
+6;6;Maíz, papa;Presiembra;Chaquitaclla;Agricultura;Manejo de suelo;1;Principal herramienta para arar y voltear la tierra.;Paymakis
+7;7;Diversos;Poscosecha;Lamparo;Agricultura;Manejo de cultivo;10;Reposadero para la fabricación de queso o mantenimiento de los alimentos.;Paymakis
+8;8;Diversos;Poscosecha;Maran, Mutka;Agricultura;Manejo de cultivo;10;Herramienta para moler alimentos.;Paymakis
+9;9;;Festividad;Odre;Cultura ;;;Recipiente de cuero para el traslado de bebidas como chicha, alcoholes, etc.;Paymakis
+10;10;;;Sara tipina;;;;;Paymakis
+11;11;;Pesca;Soqos;Pesca;;;Cañas de pescar artesanales fabricadas para la pesca de trucha.;Paymakis
+12;12;Tuna;Cosecha;Tunas pallana;Agricultura;Manejo de cultivo;9;Herramienta para cosechar tuna.;Paymakis
+13;13;;Transporte de materiales;Wantuna;;;;Instrumento de trabajo para el transporte de materiales en las chacras o construcciones.;Paymakis
+14;14;;Herramientas;Waska;;;;Cuerdas de cuero para trabajos agropecuarios o domésticos.;Paymakis
+15;15;;Espiritualidad;Waqalli;Cultura;;;"Procesiones para pedir con tonos tristez al ""Hanay pacha"" la presencia de lluvias.";Paymakis
+16;16;;Espiritualidad;Cruzchacuy;Cultura;;;Visita a lagunas o cerros considerados sagrados para rendir culto y ofrendas a los dioses a fin de obtener bendiciones y clima apto para buena producción de cultivos.;Paymakis
+17;17;Papa;Costumbre;Watias;Cultura;;;Hornear papa en hornos construidos con champas en la chacra.;Paymakis
+18;18;Diversos;Costumbre;Ayni;Cultura;;;"Intercambio de trabajo entre comuneros, la cual asegura disponibilidad de mano de obra para los trabajos agropecuarios durante momentos ""cuello de botella"". Las familias que realizan el trabajo tienen el cargo de ""Chaqrakuq"".";Paymakis
+19;19;;Costumbre;Trashumancia;Cultura;;;Movilizar los hatos ganaderos a través de las chacras para acceder a los residuos de cosecha.;Paymakis
+20;20;Maíz;Forma de trabajo;Tutapa;Cultura;;;Trabajos realizados por adultos y niños en horas de la mañana (4-5 am) en las parcelas de maíz más cercanas a los centros poblados.;Paymakis
+21;21;Maíz;Forma de trabajo;Tardepa;Cultura;;;Trabajos realizados por adultos y niños en horas de la tarde (a partir del mediodía) en las parcelas de maíz más cercanas a los centros poblados.;Paymakis
+22;22;Maíz;Forma de trabajo;Contrato;Cultura;;;Trabajos realizados por escolares a cambio de remuneraciones, sin obligación de trabajo recíproco.;Paymakis
+23;23;Maíz;Riego;Chaqra regay;Agricultura;Manejo de cultivo;;Primer riego. Riego antes de la preparación del suelo.;Paymakis
+24;24;Maíz;Costumbre;Minkakuy;Cultura;;;Momento de suplica o petición de trabajadores para afiliar o reclamar la relación de reciprocidad de trabajo.;Paymakis
+25;25;Maíz;Costumbre;Chaqrakuy;Cultura;;;Día en el que se inicia preparación del suelo y siembra.;Paymakis
+26;26;Maíz;Espiritualidad;Tinkay;Cultura;;;"Ritual que consiste en agradecer a la Pachamama por la fertilidad. El qatay doroge el ritual simbolizado con una vara; se inicia hundiendo las chaquitacllas en cuyas bases se colocan semillas, flores y hojas de coca. Se arman parejas de ambos sexos , representando el sentido de la dualidad de la cosmovisión andina.";Paymakis
+27;27;Maíz;Espiritualidad;Wankay;Cultura;;;Serie de canciones entonadas por mujeres mientras que el Qatay trata de tocarles las entrepiernas con la vara (Wanu). Después de realizar los surcos en la chacra, las mujeres colocan las semillas (Uskay).;Paymakis
+28;28;Maíz;Resiembra;Tarpupay;Agricultura;Manejo de cultivo;2;Resiembra en lugares de la chacra en donde no hubo brote de plantas.;Paymakis
+29;29;Maíz;Deshierbo, aporque, monitoreo de plagas;Waman qallmay;Agricultura;Manejo de cultivo;;Tres semanas depues del brote de plántulas, se procede a la priemra intervención, la cual consiste en el deshierbo, primer aporque y monitoreo de plagas o enfermedades.;Paymakis
+30;30;Maíz;Aporque;Qalqe;Agricultura;Manejo de cultivo;;Segundo aporque realizado al mes de la primera intervención.;Paymakis
+31;31;Maíz;Aporque;Kutipa;Agricultura;Manejo de cultivo;;Último aporque al florecer el maíz. Acto acompañado de musica con esquelas, tinyas, etc. Se realiza el ritual de  Tinkay, en el cual el Qatay entierra los maíces para devolverlos a la Pachamama.;Paymakis
+32;32;Maíz;Cosecha;Wanlla sara;Agricultura;Manejo de cultivo;9;Intercambio de productos contra trabajo durante la cosecha de maíz.;Paymakis
+33;33;Papa;Presiembra;Chaqma;Agricultura;Manejo de suelo;1;Se realiza entre los meses de julio y agosto. Se rotura una primera columna para marcar la parcela (Chaqra uqariy), se determina una plaza en la cual se hará el trabajo de roturación. Se realiza el Rapay, el cual consiste en que un hombre y una mujer (parejas) roturan y voltean el suelo, respectivamente.;Paymakis
+34;34;Papa;Presiembra;Pakuy;Agricultura;Manejo de suelo;1;En septiembre, después de la chaqma, se realiza la actividad de desmenuzar las champas secas que quedaron después de la roturación.;Paymakis
+35;35;Papa;Presiembra;Wachuchay;Agricultura;Manejo de suelo;1;Trazado de surcos - surcado.;Paymakis
+36;36;Papa;Presiembra;Safio;Agricultura;Manejo de suelo;1;"Trabajo que se realiza en los laymes en paralelo a la chaqma; consisten en voltear de raíz a las malezas, tales como Waraqo, Tayanco, etc.";Paymakis
+37;37;Papa;Siembra;Papa tarpuy;Agricultura;Manejo de cultivo;2;Realizada en septiembre, después del Pakuy. Siembra de papa en las parcelas más bajas.;Paymakis
+38;38;Papa;Siembra;Choqe o Choqe tarpuy;Agricultura;Manejo de cultivo;2;Siembra directa de papa (se abren hoyos con la chaquitaclla y se introduce la semilla).;Paymakis
+39;39;Papa;Presiembra;Choqe tiqray;Agricultura;Manejo de suelo;1;Hace referencia al primer y único aporque que se hace a las plantas en tierras altas en octubre. Se hacen surcos invertidos con profundos canales.;Paymakis
+40;40;Papa;Presiembra;Wawachay;Agricultura;Manejo de suelo;1;Aporque que se hace a las plantas en tierras bajas en diciembre.;Paymakis
+41;41;Papa;Presiembra;Qotoy;Agricultura;Manejo de suelo;1;Último porque que se hace a las plantas en tierras bajas en enero.;Paymakis
+42;42;Papa;Cosecha;Watia / Wanlla;Agricultura;Manejo de cultivo;9;Intercambio de productos contra trabajo durante la cosecha de papa, entre abril y mayo.;Paymakis
+43;43;Oca;Presiembra;;Agricultura;Manejo de cultivo;1;Cultivados en laymes de dos años consecutivos en zonas templadas. Se cultivan al segundo año, despues de la primera campaña de papa, aprovechando el rebrote de las mismas denominados Kipa.;Paymakis
+44;44;Mashua;Presiembra;;Agricultura;Manejo de cultivo;1;Cultivados en laymes de dos años consecutivos en zonas templadas. Se cultivan al segundo año, despues de la primera campaña de papa, aprovechando el rebrote de las mismas denominados Kipa.;Paymakis
+45;45;Olluco;Presiembra;;Agricultura;Manejo de cultivo;1;Cultivados en laymes de dos años consecutivos en zonas templadas. Se cultivan al segundo año, despues de la primera campaña de papa, aprovechando el rebrote de las mismas denominados Kipa.;Paymakis
+46;46;Tarwi;Siembra;;Agricultura;Manejo de cultivo;2;Se cultiva en asociación con maíz.;Paymakis
+47;47;;Festividad costumbrista;Patrón de San Blas;Cultura;;;Fiesta que implica la peregrinación de los comuneros hacia la capital del distrito para celebrar el cargo y velo de la imagen del patrón San Blas.;Paymakis
+48;48;;Festividad costumbrista;Patrón de San Marcos;Cultura;;;Fiesta que implica la peregrinación de fieles y animales desde las alturas a la capital para realizar un festejo en busca de bendiciones en la actividad pecuaria. Se realiza la corrida de toros (Waca puckllay).;Paymakis
+49;49;;Festividad costumbrista;Corpus Cristi;Cultura;;;Fiesta que implica la peregrinación hacia la capital del distrito para celebrar alrededor de altares traídos de la ciudad del Cusco durante 7 a 8 días. Mezcla cristiana y de pagos a los dioses andinos (Apus) con animales sacrificados. Se realiza a mediados del mes de Junio.;Paymakis
+50;50;;Festividad costumbrista;Niño velakuy;Cultura;;;Celebración realizada en los centros poblados respectivos donde se celebra el nacimiento y vela del niño Jesús. Se realiza el 24 al 25 de diciembre.;Paymakis
+51;51;;Festividad costumbrista;Patrón Santiago;Cultura;;;Fiesta que implica la peregrinación hacia la capital del distrito para celebrar el cambio de ropa del patrón Santiago o patrón de los caballos para bendecir dichos hatos. Se realizan carreras y sacrificios de animales. Se realiza el 24 de julio.;Paymakis
+52;52;;Festividad costumbrista;Señor de la Tabla Cruz;Festividad costumbrista;;;"Peregrinación que se realiza a inicios del mes de mayo, la cual consiste en un recorrido hacia la ""Tabla Cruz"" con el ojetivo de obtener bendiciones; así mismo tiene lugar una competencia entre jinetes que afrontan la lejanía y peligrosidad del camino. Se considera una festividad obligada sobre todo para los jóvenes en toda la zona.";Paymakis
+53;53;;Festividad costumbrista;Todos los santos;Festividad costumbrista;;;Visita de tumbas con festejos, danzas y alimentos específicos.;Paymakis
+54;54;;Festividad costumbrista;Aniversario de Lambrama;Festividad costumbrista;;;"Desde las comunidades se ""baja"" a la capital para celebrar el aniversario de la creación política junto a las intituciones del Estado.";Paymakis
+55;55;;Festividad costumbrista;Carnaval campesino de Lambrama;Festividad costumbrista;;;Tumbado de árboles al son de danzas, bebida, comida y cantos. Así mismo se hacen competencias entre comunidades campesinas.;Paymakis
+56;56;;Festividad costumbrista;Fiesta patronal de Santa Isabel Virgen de Caype;Festividad costumbrista;;;Momento de oculto a la patrona de la comunidad e iglesia, Santa Isabel Virgen de Caype. Se realiza en julio.;Paymakis

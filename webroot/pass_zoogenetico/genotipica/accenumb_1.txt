@@ -1,0 +1,38 @@
+
+
+Proceso funcion1
+	
+	a<-0
+	b<-0
+	n<-0
+	h<-0
+	areaTotal<-0
+	
+	Escribir "Ingrese el valor de A"
+	leer a
+	Escribir "Ingrese el valor de B"
+	leer b
+	Escribir "Ingrese el valor de N"
+	leer n
+	
+	h <- (b-a)/n
+	
+	Para i<-1 hasta n Hacer
+		
+		area<-0
+		
+		v0 <- a + (i-1)*h
+		v1 <- a + i*h
+		
+		f0 <- v0^3 - 2*v0^2
+		f1 <- v1^3 - 2*v1^2
+		
+		area <- (f0 + f1)*h/2
+		
+		areaTotal <- areaTotal + area
+    FinPara
+	
+	Escribir "El valor de la integral es ",areaTotal,"."
+	
+FinProceso
+

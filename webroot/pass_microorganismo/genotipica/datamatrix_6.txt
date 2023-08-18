@@ -1,0 +1,24 @@
+private String collsrcdet;
+    @SerializedName("isosrc")
+    private String isosrc;
+    @SerializedName("sampstat")
+    private String sampstat;
+        private String soiltext;
+    @SerializedName("soilped")
+    private String soilped;
+    @SerializedName("soilcol")
+    private String soilcol;
+    @SerializedName("soilph")
+    private String soilph;
+    @SerializedName("soilfis")
+    private String soilfis;
+       @SerializedName("waterodor")
+    private String waterodor;
+    @SerializedName("waterph")
+    private String waterph;
+        @SerializedName("watersrc")
+    private String watersrc;
+    @SerializedName("watercol")
+    private String watercol;
+
+select concat('PER1',lpad(cast(right('per00001',2) as unsigned)+1,6,0));

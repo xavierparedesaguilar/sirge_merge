@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8">
+    <title>OpenStreetMap Embedded</title>
+    <link rel="stylesheet" media="screen" href="/assets/embed-94fb77164e52dc63d2d4b7be16f16d82e78b2e5420f98d19da7a51fcc6eee57e.css" />
+    <script src="/assets/embed-f883a9501026a1c155623dfcad622c69c09d2a28dce30c031655c08f6b521cd6.js"></script>
+  </head>
+  <body>
+    <div id="map"></div>
+  </body>
+</html>
